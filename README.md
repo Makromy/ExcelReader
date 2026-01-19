@@ -6,6 +6,8 @@ This project is a web-based configuration tool that allows users to upload, visu
 
 ![Screenshot_19-1-2026_171110_makromy github io](https://github.com/user-attachments/assets/ffa35570-9abe-4b36-87e8-305736e83820)
 
+![Screenshot_19-1-2026_172746_makromy github io](https://github.com/user-attachments/assets/8c7ca350-c224-49a6-92ca-0827d56236cd)
+
 ## Run Locally
 
 **Prerequisites:**  Node.js
