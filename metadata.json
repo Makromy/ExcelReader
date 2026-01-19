@@ -1,0 +1,5 @@
+{
+  "name": "ExcelInsight Configurator",
+  "description": "A modern data analysis tool that allows users to upload Excel files, configure dynamic filters, and customize table views for streamlined data exploration.",
+  "requestFramePermissions": []
+}
