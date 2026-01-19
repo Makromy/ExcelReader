@@ -1,6 +1,10 @@
 # ExcelReader Configurator
 
-This project is a web-based configuration tool for ExcelReader.
+This project is a web-based configuration tool that allows users to upload, visualize, and customize Excel (.xlsx, .xls and CSV) files directly in the browser. It features an interactive table viewer with faceted filtering, global search. Users can configure specific columns for display or filtering and export their customized views to Excel, PDF, or image formats.
+
+![Screenshot_19-1-2026_172224_makromy github io](https://github.com/user-attachments/assets/337767ac-a89f-4af5-b759-1bb18cf5d039)
+
+![Screenshot_19-1-2026_171110_makromy github io](https://github.com/user-attachments/assets/ffa35570-9abe-4b36-87e8-305736e83820)
 
 ## Run Locally
 
@@ -17,4 +21,4 @@ This project is a web-based configuration tool for ExcelReader.
 2. Run the deploy script:
    `npm run deploy`
 
-This will build your application and deploy it to GitHub Pages. You can then view your live application at `https://Makromy.github.io/ExcelReader/`.
+This will build your application and deploy it to GitHub Pages.
